@@ -22,6 +22,6 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deshiin&show_icons=true&locale=en" alt="deshiin" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=deshiin&show_icons=true&locale=en" alt="deshiin" />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deshiin&" alt="deshiin" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deshiin&" alt="deshiin" />
