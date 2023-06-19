@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤠, I'm Miguel</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
    
-<img width="100%" src="https://giffiles.alphacoders.com/162/162646.gif" alt="">
+<img width="100%" height="400" src="https://giffiles.alphacoders.com/162/162646.gif" alt="">
 
 - 🌱 I’m currently learning **javascript**
 
@@ -22,6 +22,6 @@
 
 <hr>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=deshiin&show_icons=true&locale=en" width="40%" alt="deshiin" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=deshiin&show_icons=true&locale=en" width="45%" alt="deshiin" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deshiin&" width="40%" alt="deshiin" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deshiin&" width="45%" alt="deshiin" />
