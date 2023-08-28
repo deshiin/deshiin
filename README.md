@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤠, I'm Miguel</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">A developer from Brazil</h3>
    
 <img width="100%" height="400" src="https://giffiles.alphacoders.com/162/162646.gif" alt="">
 
